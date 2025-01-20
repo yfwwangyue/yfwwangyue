@@ -71,6 +71,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yfwwangyue/yfwwangyue/output/snake.svg" alt="Snake animation" />
-
-###
