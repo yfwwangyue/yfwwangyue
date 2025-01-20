@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKFLSly2T7qluFb7-bx434nD4Z4pbDN7Xn5w&s](https://images.pexels.com/photos/1490908/pexels-photo-1490908.jpeg?cs=srgb&dl=pexels-svetozar-milashevich-99573-1490908.jpg&fm=jpg)"  />
+  <img height="150" src="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&cs=tinysrgb&w=1200"  />
 </div>
 
 ###
@@ -73,4 +73,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/yfwwangyue/yfwwangyue/output/snake.svg" alt="Snake animation" />
 
+###
