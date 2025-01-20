@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKFLSly2T7qluFb7-bx434nD4Z4pbDN7Xn5w&s"  />
+  <img height="150" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKFLSly2T7qluFb7-bx434nD4Z4pbDN7Xn5w&s](https://images.pexels.com/photos/1490908/pexels-photo-1490908.jpeg?cs=srgb&dl=pexels-svetozar-milashevich-99573-1490908.jpg&fm=jpg)"  />
 </div>
 
 ###
@@ -26,7 +26,10 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a Penn State Fall 2024 graduate.<br><br>
+- 📚 I'm actively learning Swift and SwiftUI to further enhance my app development skills and explore new possibilities in the iOS ecosystem.<br>
+- ⚡ In my free time, I enjoy hitting the gym to stay fit, improve my strength, and relieve stress. I’m passionate about maintaining a healthy lifestyle and challenging myself both physically and mentally.</p>
+
 
 ###
 
